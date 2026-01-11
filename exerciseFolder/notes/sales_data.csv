@@ -1,0 +1,501 @@
+Product,Category,Quantity,Price,Date,Customer_ID,Sales_Rep,Region,Total_Sales
+Earbuds,Audio,3,168.47,2024-01-01,CUST1079,Mike Davis,Central,505.41
+Controller,Gaming,1,122.4,2024-01-02,CUST1188,Mike Davis,East,122.4
+Tablet,Electronics,2,549.82,2024-01-02,CUST1149,David Wilson,South,1099.64
+Laptop,Electronics,1,2496.16,2024-01-02,CUST1023,David Wilson,South,2496.16
+Gaming Chair,Gaming,2,493.76,2024-01-02,CUST1029,Emily Brown,East,987.52
+Gaming Console,Gaming,9,390.26,2024-01-03,CUST1072,David Wilson,North,3512.34
+Smart TV,Electronics,1,653.2,2024-01-04,CUST1037,John Smith,North,653.2
+Earbuds,Audio,3,118.99,2024-01-04,CUST1172,John Smith,West,356.97
+Mouse,Accessories,2,36.46,2024-01-04,CUST1001,David Wilson,Central,72.92
+Smart TV,Electronics,1,568.15,2024-01-04,CUST1110,John Smith,North,568.15
+Laptop,Electronics,4,2427.36,2024-01-05,CUST1182,John Smith,East,9709.44
+Keyboard,Accessories,1,152.89,2024-01-05,CUST1007,Emily Brown,Central,152.89
+Speakers,Audio,2,266.32,2024-01-05,CUST1140,John Smith,West,532.64
+Headphones,Audio,3,210.51,2024-01-06,CUST1058,Emily Brown,Central,631.53
+Speakers,Audio,4,227.99,2024-01-07,CUST1096,Mike Davis,Central,911.96
+Controller,Gaming,1,94.98,2024-01-07,CUST1089,David Wilson,South,94.98
+Keyboard,Accessories,7,36.32,2024-01-08,CUST1172,Emily Brown,Central,254.24
+Headphones,Audio,1,259.34,2024-01-08,CUST1149,Emily Brown,West,259.34
+Smart TV,Electronics,7,1190.27,2024-01-08,CUST1183,David Wilson,West,8331.89
+Smart TV,Electronics,1,1372.63,2024-01-09,CUST1059,Sarah Johnson,South,1372.63
+Keyboard,Accessories,3,30.87,2024-01-10,CUST1125,Sarah Johnson,South,92.61
+Mouse,Accessories,5,24.21,2024-01-11,CUST1159,John Smith,West,121.05
+Gaming Chair,Gaming,1,481.55,2024-01-12,CUST1198,Sarah Johnson,East,481.55
+Mouse,Accessories,2,45.14,2024-01-12,CUST1048,Mike Davis,West,90.28
+Headphones,Audio,1,131.39,2024-01-12,CUST1083,Emily Brown,South,131.39
+Webcam,Accessories,2,181.35,2024-01-13,CUST1015,David Wilson,Central,362.7
+Speakers,Audio,2,200.69,2024-01-13,CUST1116,Emily Brown,South,401.38
+Smartphone,Electronics,1,702.67,2024-01-15,CUST1105,David Wilson,North,702.67
+Headphones,Audio,8,265.92,2024-01-17,CUST1195,Sarah Johnson,East,2127.36
+Earbuds,Audio,2,138.43,2024-01-17,CUST1044,Emily Brown,North,276.86
+Speakers,Audio,2,159.01,2024-01-18,CUST1028,John Smith,North,318.02
+Speakers,Audio,5,126.17,2024-01-19,CUST1122,Emily Brown,North,630.85
+Earbuds,Audio,3,113.53,2024-01-20,CUST1150,John Smith,South,340.59
+Gaming Console,Gaming,4,303.31,2024-01-20,CUST1116,Mike Davis,West,1213.24
+Speakers,Audio,1,236.41,2024-01-20,CUST1114,John Smith,East,236.41
+Earbuds,Audio,2,242.77,2024-01-21,CUST1151,Sarah Johnson,North,485.54
+Headphones,Audio,1,118.12,2024-01-21,CUST1004,Emily Brown,South,118.12
+Controller,Gaming,6,56.27,2024-01-21,CUST1133,John Smith,West,337.62
+Gaming Chair,Gaming,5,437.89,2024-01-22,CUST1028,Emily Brown,North,2189.45
+Monitor,Electronics,1,227.94,2024-01-23,CUST1055,David Wilson,Central,227.94
+Speakers,Audio,1,155.36,2024-01-23,CUST1129,Mike Davis,North,155.36
+Smart TV,Electronics,1,1363.06,2024-01-24,CUST1035,John Smith,West,1363.06
+Speakers,Audio,3,210.52,2024-01-25,CUST1021,Sarah Johnson,South,631.56
+Smart TV,Electronics,7,749.28,2024-01-25,CUST1082,Sarah Johnson,North,5244.96
+USB Cable,Accessories,1,16.21,2024-01-25,CUST1068,David Wilson,West,16.21
+Monitor,Electronics,1,265.55,2024-01-27,CUST1055,Emily Brown,East,265.55
+Laptop,Electronics,3,2214.17,2024-01-27,CUST1068,Sarah Johnson,West,6642.51
+Controller,Gaming,1,60.66,2024-01-27,CUST1156,Mike Davis,East,60.66
+Speakers,Audio,1,165.42,2024-01-28,CUST1081,John Smith,South,165.42
+Webcam,Accessories,2,99.28,2024-01-28,CUST1103,Sarah Johnson,West,198.56
+Mouse,Accessories,2,103.04,2024-01-28,CUST1031,David Wilson,North,206.08
+Webcam,Accessories,1,135.1,2024-01-29,CUST1000,Mike Davis,South,135.1
+Headphones,Audio,4,229.9,2024-01-30,CUST1094,Mike Davis,West,919.6
+Laptop,Electronics,1,1446.88,2024-02-01,CUST1091,Emily Brown,South,1446.88
+Headphones,Audio,1,276.03,2024-02-01,CUST1107,John Smith,South,276.03
+USB Cable,Accessories,2,24.85,2024-02-01,CUST1142,Emily Brown,East,49.7
+Controller,Gaming,1,64.92,2024-02-03,CUST1093,Emily Brown,West,64.92
+Gaming Console,Gaming,2,544.52,2024-02-03,CUST1155,John Smith,East,1089.04
+Speakers,Audio,2,270.2,2024-02-04,CUST1163,Mike Davis,South,540.4
+Webcam,Accessories,4,105.66,2024-02-05,CUST1017,Mike Davis,West,422.64
+Laptop,Electronics,3,2092.39,2024-02-07,CUST1117,John Smith,Central,6277.17
+Smart TV,Electronics,7,1118.48,2024-02-08,CUST1161,Emily Brown,West,7829.36
+Earbuds,Audio,5,57.11,2024-02-08,CUST1057,John Smith,East,285.55
+Keyboard,Accessories,5,132.46,2024-02-11,CUST1094,David Wilson,North,662.3
+Speakers,Audio,3,153.22,2024-02-11,CUST1123,David Wilson,East,459.66
+USB Cable,Accessories,1,24.74,2024-02-11,CUST1069,Sarah Johnson,South,24.74
+Headphones,Audio,2,136.12,2024-02-12,CUST1052,Sarah Johnson,West,272.24
+Gaming Console,Gaming,8,367.08,2024-02-13,CUST1077,David Wilson,North,2936.64
+Headphones,Audio,2,237.05,2024-02-15,CUST1100,Sarah Johnson,West,474.1
+Webcam,Accessories,2,69.06,2024-02-16,CUST1083,David Wilson,East,138.12
+Keyboard,Accessories,2,134.08,2024-02-17,CUST1013,David Wilson,West,268.16
+Gaming Console,Gaming,3,592.8,2024-02-18,CUST1102,Emily Brown,West,1778.4
+Gaming Console,Gaming,1,417.31,2024-02-18,CUST1078,Sarah Johnson,East,417.31
+Speakers,Audio,5,272.0,2024-02-18,CUST1128,David Wilson,West,1360.0
+Headphones,Audio,4,132.9,2024-02-19,CUST1060,Emily Brown,South,531.6
+Gaming Chair,Gaming,1,300.21,2024-02-19,CUST1170,David Wilson,North,300.21
+Gaming Console,Gaming,10,341.1,2024-02-19,CUST1059,Emily Brown,West,3411.0
+Headphones,Audio,1,114.57,2024-02-19,CUST1126,Mike Davis,North,114.57
+Smart TV,Electronics,1,895.6,2024-02-20,CUST1089,Emily Brown,North,895.6
+Tablet,Electronics,3,218.86,2024-02-21,CUST1016,Emily Brown,Central,656.58
+Smartphone,Electronics,3,827.28,2024-02-21,CUST1027,Sarah Johnson,North,2481.84
+Laptop,Electronics,1,1172.77,2024-02-22,CUST1026,John Smith,North,1172.77
+Gaming Console,Gaming,1,416.6,2024-02-22,CUST1009,John Smith,South,416.6
+Earbuds,Audio,5,144.44,2024-02-23,CUST1091,Mike Davis,South,722.2
+Webcam,Accessories,5,146.7,2024-02-23,CUST1042,Emily Brown,North,733.5
+Monitor,Electronics,2,433.91,2024-02-23,CUST1056,Mike Davis,West,867.82
+Webcam,Accessories,2,56.48,2024-02-24,CUST1143,Sarah Johnson,South,112.96
+Gaming Console,Gaming,3,473.28,2024-02-24,CUST1147,Sarah Johnson,North,1419.84
+Gaming Chair,Gaming,2,233.58,2024-02-27,CUST1144,John Smith,North,467.16
+Keyboard,Accessories,1,94.79,2024-02-27,CUST1049,David Wilson,North,94.79
+Laptop,Electronics,2,2190.95,2024-02-28,CUST1180,John Smith,North,4381.9
+Headphones,Audio,3,366.18,2024-02-28,CUST1167,David Wilson,West,1098.54
+Headphones,Audio,1,201.18,2024-02-28,CUST1003,Emily Brown,Central,201.18
+Headphones,Audio,2,51.62,2024-03-03,CUST1135,Emily Brown,East,103.24
+Tablet,Electronics,3,692.38,2024-03-05,CUST1059,John Smith,West,2077.14
+Gaming Console,Gaming,5,342.28,2024-03-05,CUST1010,John Smith,Central,1711.4
+Headphones,Audio,2,288.77,2024-03-05,CUST1041,Emily Brown,North,577.54
+Tablet,Electronics,3,638.15,2024-03-08,CUST1168,Emily Brown,Central,1914.45
+Webcam,Accessories,2,145.42,2024-03-09,CUST1044,John Smith,North,290.84
+Monitor,Electronics,2,236.34,2024-03-10,CUST1067,John Smith,East,472.68
+Speakers,Audio,5,174.36,2024-03-10,CUST1132,Emily Brown,North,871.8
+Headphones,Audio,2,185.69,2024-03-11,CUST1119,Emily Brown,East,371.38
+Headphones,Audio,1,310.17,2024-03-12,CUST1180,Emily Brown,West,310.17
+Speakers,Audio,2,85.39,2024-03-12,CUST1021,Mike Davis,East,170.78
+Gaming Chair,Gaming,1,499.79,2024-03-13,CUST1045,John Smith,South,499.79
+Gaming Console,Gaming,1,533.95,2024-03-14,CUST1196,John Smith,Central,533.95
+Controller,Gaming,1,125.94,2024-03-15,CUST1193,Sarah Johnson,South,125.94
+Keyboard,Accessories,1,86.41,2024-03-16,CUST1070,John Smith,West,86.41
+Earbuds,Audio,2,31.27,2024-03-16,CUST1048,Sarah Johnson,South,62.54
+Controller,Gaming,1,98.05,2024-03-16,CUST1013,John Smith,East,98.05
+Gaming Chair,Gaming,4,363.62,2024-03-17,CUST1056,Emily Brown,West,1454.48
+Headphones,Audio,1,231.2,2024-03-17,CUST1015,Emily Brown,South,231.2
+Webcam,Accessories,3,40.18,2024-03-17,CUST1194,David Wilson,South,120.54
+Controller,Gaming,1,104.67,2024-03-18,CUST1063,David Wilson,East,104.67
+Headphones,Audio,4,354.02,2024-03-19,CUST1007,Mike Davis,West,1416.08
+Mouse,Accessories,2,67.16,2024-03-19,CUST1097,John Smith,North,134.32
+Monitor,Electronics,1,286.47,2024-03-20,CUST1087,Emily Brown,East,286.47
+Headphones,Audio,3,347.72,2024-03-21,CUST1138,David Wilson,North,1043.16
+Smart TV,Electronics,5,1402.02,2024-03-22,CUST1083,Mike Davis,West,7010.1
+Smart TV,Electronics,1,1167.53,2024-03-23,CUST1022,Mike Davis,Central,1167.53
+Smartphone,Electronics,1,1169.62,2024-03-23,CUST1164,Mike Davis,West,1169.62
+Mouse,Accessories,3,22.8,2024-03-23,CUST1086,John Smith,North,68.4
+Gaming Chair,Gaming,2,364.29,2024-03-24,CUST1019,Emily Brown,East,728.58
+Monitor,Electronics,2,209.11,2024-03-24,CUST1130,John Smith,Central,418.22
+Laptop,Electronics,1,2454.23,2024-03-25,CUST1080,David Wilson,South,2454.23
+Headphones,Audio,1,395.72,2024-03-25,CUST1064,Sarah Johnson,South,395.72
+Gaming Console,Gaming,4,345.05,2024-03-27,CUST1098,David Wilson,North,1380.2
+USB Cable,Accessories,1,25.44,2024-03-28,CUST1110,Emily Brown,West,25.44
+Tablet,Electronics,7,421.57,2024-03-28,CUST1087,Sarah Johnson,West,2950.99
+Tablet,Electronics,1,599.96,2024-03-28,CUST1064,Sarah Johnson,West,599.96
+Mouse,Accessories,1,47.37,2024-03-29,CUST1051,David Wilson,South,47.37
+Webcam,Accessories,2,192.78,2024-03-29,CUST1068,David Wilson,East,385.56
+Webcam,Accessories,1,67.28,2024-03-29,CUST1005,Emily Brown,East,67.28
+Monitor,Electronics,1,363.21,2024-03-30,CUST1051,John Smith,North,363.21
+Webcam,Accessories,3,164.34,2024-03-31,CUST1074,Sarah Johnson,Central,493.02
+Earbuds,Audio,3,229.58,2024-03-31,CUST1162,Sarah Johnson,South,688.74
+Smartphone,Electronics,5,589.5,2024-03-31,CUST1066,David Wilson,North,2947.5
+Headphones,Audio,1,55.59,2024-04-01,CUST1006,Emily Brown,North,55.59
+Earbuds,Audio,3,104.04,2024-04-02,CUST1061,Sarah Johnson,West,312.12
+Gaming Console,Gaming,2,569.04,2024-04-02,CUST1098,Sarah Johnson,East,1138.08
+USB Cable,Accessories,8,5.13,2024-04-03,CUST1112,Mike Davis,West,41.04
+Controller,Gaming,5,137.93,2024-04-04,CUST1095,Emily Brown,East,689.65
+Controller,Gaming,7,51.53,2024-04-05,CUST1056,John Smith,East,360.71
+Controller,Gaming,2,93.44,2024-04-06,CUST1036,Emily Brown,West,186.88
+Keyboard,Accessories,3,86.77,2024-04-06,CUST1098,David Wilson,West,260.31
+Earbuds,Audio,10,156.09,2024-04-06,CUST1124,David Wilson,North,1560.9
+Monitor,Electronics,5,324.33,2024-04-08,CUST1191,David Wilson,South,1621.65
+USB Cable,Accessories,1,7.27,2024-04-08,CUST1069,John Smith,South,7.27
+Gaming Chair,Gaming,6,483.88,2024-04-08,CUST1038,Emily Brown,North,2903.28
+Gaming Console,Gaming,8,428.46,2024-04-08,CUST1039,Emily Brown,Central,3427.68
+Controller,Gaming,2,126.76,2024-04-09,CUST1038,Sarah Johnson,North,253.52
+Webcam,Accessories,5,49.29,2024-04-09,CUST1001,Mike Davis,North,246.45
+Tablet,Electronics,3,638.3,2024-04-09,CUST1039,David Wilson,West,1914.9
+Gaming Chair,Gaming,2,460.52,2024-04-10,CUST1014,Mike Davis,West,921.04
+Controller,Gaming,4,121.44,2024-04-11,CUST1086,John Smith,East,485.76
+Gaming Chair,Gaming,2,356.06,2024-04-11,CUST1011,Mike Davis,North,712.12
+Smart TV,Electronics,8,698.7,2024-04-12,CUST1047,Emily Brown,West,5589.6
+Smartphone,Electronics,1,970.56,2024-04-12,CUST1170,John Smith,West,970.56
+Gaming Console,Gaming,6,522.51,2024-04-13,CUST1113,Mike Davis,South,3135.06
+Headphones,Audio,1,274.71,2024-04-13,CUST1031,Emily Brown,East,274.71
+Laptop,Electronics,3,2238.07,2024-04-13,CUST1020,John Smith,West,6714.21
+Keyboard,Accessories,6,198.92,2024-04-13,CUST1006,John Smith,West,1193.52
+Monitor,Electronics,1,411.04,2024-04-14,CUST1185,Mike Davis,South,411.04
+Keyboard,Accessories,3,189.8,2024-04-14,CUST1186,Sarah Johnson,South,569.4
+Gaming Console,Gaming,4,576.75,2024-04-15,CUST1131,John Smith,East,2307.0
+Gaming Console,Gaming,5,579.27,2024-04-16,CUST1032,Mike Davis,East,2896.35
+Headphones,Audio,1,340.72,2024-04-16,CUST1181,Sarah Johnson,South,340.72
+Controller,Gaming,6,91.1,2024-04-18,CUST1182,Emily Brown,West,546.6
+Smart TV,Electronics,1,1067.57,2024-04-18,CUST1002,Emily Brown,Central,1067.57
+Gaming Chair,Gaming,6,268.03,2024-04-18,CUST1066,Emily Brown,North,1608.18
+Keyboard,Accessories,9,44.82,2024-04-19,CUST1133,Emily Brown,North,403.38
+Laptop,Electronics,5,1220.29,2024-04-20,CUST1030,John Smith,West,6101.45
+Earbuds,Audio,4,85.54,2024-04-20,CUST1104,Mike Davis,East,342.16
+Controller,Gaming,2,63.92,2024-04-20,CUST1005,Sarah Johnson,East,127.84
+Tablet,Electronics,3,798.69,2024-04-22,CUST1018,Mike Davis,West,2396.07
+Laptop,Electronics,5,1270.69,2024-04-22,CUST1102,Mike Davis,North,6353.45
+Earbuds,Audio,2,129.72,2024-04-22,CUST1142,Sarah Johnson,East,259.44
+Smartphone,Electronics,8,895.47,2024-04-23,CUST1042,Sarah Johnson,East,7163.76
+Controller,Gaming,2,97.63,2024-04-25,CUST1075,David Wilson,East,195.26
+Smartphone,Electronics,5,1112.01,2024-04-25,CUST1071,Sarah Johnson,West,5560.05
+Laptop,Electronics,3,1073.4,2024-04-26,CUST1010,Sarah Johnson,West,3220.2
+Keyboard,Accessories,1,193.19,2024-04-27,CUST1139,Emily Brown,East,193.19
+Keyboard,Accessories,3,26.77,2024-04-27,CUST1187,John Smith,East,80.31
+Keyboard,Accessories,4,118.36,2024-04-29,CUST1035,Emily Brown,South,473.44
+Keyboard,Accessories,5,74.27,2024-04-29,CUST1166,David Wilson,East,371.35
+Controller,Gaming,1,131.58,2024-04-29,CUST1184,David Wilson,East,131.58
+Mouse,Accessories,1,146.96,2024-05-01,CUST1016,Sarah Johnson,West,146.96
+Keyboard,Accessories,1,105.24,2024-05-01,CUST1000,David Wilson,South,105.24
+Webcam,Accessories,10,149.75,2024-05-03,CUST1125,Mike Davis,West,1497.5
+Smart TV,Electronics,1,1208.73,2024-05-03,CUST1187,Mike Davis,West,1208.73
+Smartphone,Electronics,2,858.73,2024-05-05,CUST1096,Mike Davis,East,1717.46
+Mouse,Accessories,1,100.87,2024-05-05,CUST1108,Emily Brown,North,100.87
+Controller,Gaming,1,84.06,2024-05-05,CUST1196,Mike Davis,South,84.06
+Keyboard,Accessories,1,172.12,2024-05-05,CUST1106,Emily Brown,North,172.12
+Mouse,Accessories,5,137.87,2024-05-06,CUST1190,John Smith,West,689.35
+Smart TV,Electronics,6,1052.54,2024-05-06,CUST1169,David Wilson,West,6315.24
+Controller,Gaming,2,54.49,2024-05-06,CUST1181,David Wilson,South,108.98
+Earbuds,Audio,3,124.23,2024-05-08,CUST1050,Sarah Johnson,Central,372.69
+Speakers,Audio,2,240.15,2024-05-08,CUST1129,John Smith,North,480.3
+Gaming Console,Gaming,1,437.06,2024-05-09,CUST1069,Emily Brown,West,437.06
+Gaming Console,Gaming,7,497.61,2024-05-09,CUST1095,Emily Brown,North,3483.27
+Controller,Gaming,2,106.07,2024-05-10,CUST1171,David Wilson,East,212.14
+Earbuds,Audio,2,249.19,2024-05-11,CUST1117,Emily Brown,West,498.38
+Gaming Console,Gaming,9,584.17,2024-05-11,CUST1073,Emily Brown,South,5257.53
+Monitor,Electronics,6,473.71,2024-05-12,CUST1153,Mike Davis,North,2842.26
+Gaming Chair,Gaming,1,368.52,2024-05-13,CUST1018,Emily Brown,West,368.52
+Gaming Chair,Gaming,4,193.5,2024-05-16,CUST1118,Sarah Johnson,North,774.0
+Gaming Console,Gaming,1,359.61,2024-05-18,CUST1011,Mike Davis,West,359.61
+Laptop,Electronics,4,979.12,2024-05-19,CUST1036,David Wilson,North,3916.48
+Controller,Gaming,1,88.01,2024-05-20,CUST1054,Mike Davis,North,88.01
+Smartphone,Electronics,1,1026.36,2024-05-20,CUST1089,Emily Brown,Central,1026.36
+Gaming Console,Gaming,1,330.34,2024-05-20,CUST1071,Sarah Johnson,South,330.34
+Gaming Console,Gaming,2,321.28,2024-05-21,CUST1044,Emily Brown,Central,642.56
+Controller,Gaming,5,89.34,2024-05-21,CUST1135,John Smith,East,446.7
+Headphones,Audio,4,225.22,2024-05-23,CUST1023,Emily Brown,North,900.88
+Monitor,Electronics,2,539.62,2024-05-25,CUST1037,Mike Davis,South,1079.24
+Controller,Gaming,1,68.87,2024-05-26,CUST1030,Mike Davis,Central,68.87
+USB Cable,Accessories,8,26.43,2024-05-26,CUST1004,John Smith,South,211.44
+Laptop,Electronics,2,2278.82,2024-05-28,CUST1134,John Smith,West,4557.64
+USB Cable,Accessories,1,26.57,2024-05-29,CUST1062,David Wilson,East,26.57
+Mouse,Accessories,3,128.09,2024-05-30,CUST1028,Sarah Johnson,South,384.27
+Gaming Chair,Gaming,3,237.51,2024-05-30,CUST1064,David Wilson,North,712.53
+Controller,Gaming,2,144.93,2024-05-31,CUST1160,David Wilson,East,289.86
+Gaming Console,Gaming,3,523.86,2024-05-31,CUST1099,John Smith,Central,1571.58
+Earbuds,Audio,3,54.38,2024-06-01,CUST1105,Mike Davis,East,163.14
+Smartphone,Electronics,1,622.35,2024-06-02,CUST1090,Sarah Johnson,East,622.35
+Speakers,Audio,1,185.42,2024-06-02,CUST1051,John Smith,South,185.42
+Smart TV,Electronics,3,1038.65,2024-06-04,CUST1138,Sarah Johnson,West,3115.95
+Smartphone,Electronics,3,592.59,2024-06-04,CUST1159,John Smith,West,1777.77
+Headphones,Audio,4,342.39,2024-06-04,CUST1065,Sarah Johnson,West,1369.56
+Headphones,Audio,2,234.03,2024-06-04,CUST1194,David Wilson,East,468.06
+Tablet,Electronics,1,381.75,2024-06-05,CUST1050,Sarah Johnson,East,381.75
+Laptop,Electronics,1,1387.99,2024-06-05,CUST1195,Sarah Johnson,East,1387.99
+Headphones,Audio,5,60.24,2024-06-08,CUST1193,Mike Davis,North,301.2
+Speakers,Audio,5,141.11,2024-06-08,CUST1084,David Wilson,North,705.55
+USB Cable,Accessories,2,7.85,2024-06-08,CUST1104,Emily Brown,North,15.7
+Monitor,Electronics,1,458.97,2024-06-09,CUST1184,Emily Brown,South,458.97
+USB Cable,Accessories,3,7.17,2024-06-09,CUST1148,David Wilson,North,21.51
+USB Cable,Accessories,1,17.06,2024-06-09,CUST1014,Sarah Johnson,West,17.06
+Keyboard,Accessories,4,81.13,2024-06-10,CUST1005,David Wilson,North,324.52
+Controller,Gaming,3,130.09,2024-06-11,CUST1058,Emily Brown,North,390.27
+Speakers,Audio,1,142.08,2024-06-11,CUST1131,Emily Brown,West,142.08
+USB Cable,Accessories,1,25.67,2024-06-12,CUST1077,Sarah Johnson,West,25.67
+Gaming Chair,Gaming,5,361.12,2024-06-13,CUST1147,David Wilson,South,1805.6
+Tablet,Electronics,4,533.26,2024-06-13,CUST1088,Sarah Johnson,West,2133.04
+Controller,Gaming,6,96.17,2024-06-15,CUST1088,David Wilson,Central,577.02
+Controller,Gaming,4,100.11,2024-06-16,CUST1093,Mike Davis,South,400.44
+Speakers,Audio,5,221.78,2024-06-17,CUST1017,Mike Davis,North,1108.9
+Smartphone,Electronics,1,1074.36,2024-06-18,CUST1046,Mike Davis,North,1074.36
+Laptop,Electronics,5,875.44,2024-06-18,CUST1186,John Smith,South,4377.2
+Webcam,Accessories,2,171.49,2024-06-18,CUST1099,David Wilson,North,342.98
+Gaming Chair,Gaming,3,316.9,2024-06-19,CUST1016,Mike Davis,West,950.7
+Gaming Console,Gaming,1,499.51,2024-06-21,CUST1157,John Smith,South,499.51
+Smart TV,Electronics,2,934.99,2024-06-21,CUST1127,Sarah Johnson,North,1869.98
+Speakers,Audio,3,257.32,2024-06-21,CUST1058,Sarah Johnson,North,771.96
+Earbuds,Audio,2,147.71,2024-06-21,CUST1113,Emily Brown,North,295.42
+Keyboard,Accessories,4,147.7,2024-06-23,CUST1090,David Wilson,Central,590.8
+Keyboard,Accessories,2,196.63,2024-06-23,CUST1013,Emily Brown,West,393.26
+Controller,Gaming,2,122.09,2024-06-24,CUST1034,Emily Brown,East,244.18
+Mouse,Accessories,4,31.27,2024-06-24,CUST1169,Sarah Johnson,South,125.08
+Gaming Console,Gaming,6,396.01,2024-06-25,CUST1066,Emily Brown,North,2376.06
+Speakers,Audio,2,276.21,2024-06-25,CUST1033,Emily Brown,West,552.42
+Gaming Chair,Gaming,4,339.89,2024-06-25,CUST1139,John Smith,East,1359.56
+Earbuds,Audio,5,116.46,2024-06-25,CUST1086,David Wilson,North,582.3
+Monitor,Electronics,1,307.28,2024-06-26,CUST1137,David Wilson,North,307.28
+Gaming Chair,Gaming,1,333.76,2024-06-26,CUST1183,Sarah Johnson,West,333.76
+Webcam,Accessories,3,79.72,2024-06-28,CUST1137,David Wilson,Central,239.16
+Tablet,Electronics,1,224.94,2024-06-29,CUST1038,Sarah Johnson,Central,224.94
+Gaming Chair,Gaming,2,438.68,2024-06-29,CUST1078,Emily Brown,South,877.36
+Controller,Gaming,1,112.62,2024-06-29,CUST1008,Emily Brown,Central,112.62
+Headphones,Audio,4,113.74,2024-07-01,CUST1022,Mike Davis,North,454.96
+Earbuds,Audio,1,150.85,2024-07-02,CUST1009,Emily Brown,East,150.85
+Gaming Chair,Gaming,4,274.59,2024-07-03,CUST1053,David Wilson,North,1098.36
+Mouse,Accessories,3,143.49,2024-07-03,CUST1039,Mike Davis,East,430.47
+Headphones,Audio,3,218.21,2024-07-04,CUST1189,Mike Davis,South,654.63
+Headphones,Audio,2,385.85,2024-07-06,CUST1092,Mike Davis,East,771.7
+Speakers,Audio,1,185.8,2024-07-06,CUST1020,Sarah Johnson,South,185.8
+Smartphone,Electronics,3,395.25,2024-07-06,CUST1192,David Wilson,Central,1185.75
+USB Cable,Accessories,4,28.77,2024-07-07,CUST1000,David Wilson,North,115.08
+Smart TV,Electronics,2,864.89,2024-07-08,CUST1082,David Wilson,West,1729.78
+Keyboard,Accessories,2,128.31,2024-07-09,CUST1111,Mike Davis,North,256.62
+Controller,Gaming,4,145.0,2024-07-16,CUST1179,Mike Davis,Central,580.0
+Keyboard,Accessories,3,188.29,2024-07-16,CUST1124,Emily Brown,East,564.87
+Gaming Console,Gaming,1,479.69,2024-07-19,CUST1171,David Wilson,North,479.69
+Gaming Console,Gaming,2,414.21,2024-07-20,CUST1084,Mike Davis,South,828.42
+Earbuds,Audio,4,82.09,2024-07-21,CUST1134,Emily Brown,North,328.36
+Laptop,Electronics,8,1329.4,2024-07-22,CUST1054,Sarah Johnson,West,10635.2
+Headphones,Audio,5,235.88,2024-07-22,CUST1197,John Smith,North,1179.4
+Keyboard,Accessories,9,171.91,2024-07-24,CUST1165,John Smith,South,1547.19
+Tablet,Electronics,2,254.77,2024-07-24,CUST1067,Emily Brown,East,509.54
+Mouse,Accessories,1,35.76,2024-07-24,CUST1080,Emily Brown,East,35.76
+Webcam,Accessories,2,75.29,2024-07-25,CUST1024,John Smith,West,150.58
+Earbuds,Audio,2,199.61,2024-07-25,CUST1015,Sarah Johnson,North,399.22
+Laptop,Electronics,3,2015.37,2024-07-26,CUST1006,Mike Davis,Central,6046.11
+Controller,Gaming,4,139.46,2024-07-27,CUST1152,Sarah Johnson,North,557.84
+Laptop,Electronics,2,2192.41,2024-07-29,CUST1154,Emily Brown,South,4384.82
+Smartphone,Electronics,10,715.75,2024-07-29,CUST1100,Mike Davis,North,7157.5
+Mouse,Accessories,1,19.36,2024-07-30,CUST1082,David Wilson,West,19.36
+Mouse,Accessories,2,125.92,2024-07-31,CUST1155,Sarah Johnson,West,251.84
+Headphones,Audio,1,107.29,2024-07-31,CUST1106,Emily Brown,North,107.29
+Headphones,Audio,3,144.1,2024-08-01,CUST1085,John Smith,South,432.3
+Controller,Gaming,5,123.22,2024-08-02,CUST1166,David Wilson,West,616.1
+Gaming Console,Gaming,2,389.88,2024-08-02,CUST1140,Mike Davis,North,779.76
+Earbuds,Audio,4,220.19,2024-08-03,CUST1190,Mike Davis,Central,880.76
+Headphones,Audio,5,88.72,2024-08-03,CUST1126,Emily Brown,South,443.6
+Tablet,Electronics,2,608.42,2024-08-05,CUST1024,Emily Brown,North,1216.84
+Mouse,Accessories,1,81.5,2024-08-07,CUST1075,Sarah Johnson,West,81.5
+Webcam,Accessories,9,105.66,2024-08-10,CUST1111,Sarah Johnson,East,950.94
+Mouse,Accessories,1,64.64,2024-08-11,CUST1047,David Wilson,South,64.64
+USB Cable,Accessories,5,14.41,2024-08-11,CUST1085,John Smith,South,72.05
+Webcam,Accessories,4,107.03,2024-08-12,CUST1185,Emily Brown,North,428.12
+Smart TV,Electronics,1,1492.26,2024-08-14,CUST1078,Mike Davis,Central,1492.26
+Tablet,Electronics,2,745.53,2024-08-14,CUST1145,Emily Brown,East,1491.06
+Keyboard,Accessories,7,117.56,2024-08-14,CUST1174,Mike Davis,Central,822.92
+Tablet,Electronics,1,736.79,2024-08-15,CUST1067,John Smith,North,736.79
+Earbuds,Audio,5,156.98,2024-08-16,CUST1112,Sarah Johnson,East,784.9
+Smartphone,Electronics,2,420.42,2024-08-17,CUST1090,David Wilson,West,840.84
+Earbuds,Audio,3,85.1,2024-08-17,CUST1035,David Wilson,East,255.3
+Keyboard,Accessories,2,193.61,2024-08-17,CUST1045,John Smith,South,387.22
+Speakers,Audio,1,138.56,2024-08-18,CUST1025,David Wilson,West,138.56
+Headphones,Audio,1,82.53,2024-08-18,CUST1074,John Smith,East,82.53
+Webcam,Accessories,1,163.4,2024-08-18,CUST1012,Sarah Johnson,North,163.4
+Smart TV,Electronics,1,1214.52,2024-08-19,CUST1019,David Wilson,West,1214.52
+Smartphone,Electronics,1,1137.29,2024-08-19,CUST1096,David Wilson,West,1137.29
+Gaming Chair,Gaming,1,413.94,2024-08-19,CUST1143,David Wilson,West,413.94
+Monitor,Electronics,2,363.29,2024-08-20,CUST1107,David Wilson,East,726.58
+Gaming Chair,Gaming,1,288.88,2024-08-20,CUST1179,John Smith,West,288.88
+Earbuds,Audio,6,75.95,2024-08-21,CUST1199,Mike Davis,North,455.7
+Smart TV,Electronics,2,992.57,2024-08-21,CUST1115,Sarah Johnson,West,1985.14
+Gaming Chair,Gaming,2,154.1,2024-08-22,CUST1189,John Smith,North,308.2
+Controller,Gaming,3,123.68,2024-08-23,CUST1108,Mike Davis,South,371.04
+Gaming Chair,Gaming,5,195.97,2024-08-23,CUST1003,Emily Brown,West,979.85
+Smartphone,Electronics,3,1019.47,2024-08-26,CUST1101,Mike Davis,Central,3058.41
+Tablet,Electronics,1,489.36,2024-08-27,CUST1094,Mike Davis,Central,489.36
+Webcam,Accessories,2,83.45,2024-08-28,CUST1030,Sarah Johnson,West,166.9
+Headphones,Audio,4,361.55,2024-08-29,CUST1055,Sarah Johnson,North,1446.2
+Keyboard,Accessories,7,98.19,2024-08-29,CUST1084,Mike Davis,North,687.33
+Headphones,Audio,3,83.44,2024-08-29,CUST1061,David Wilson,North,250.32
+Earbuds,Audio,2,166.17,2024-08-29,CUST1091,David Wilson,Central,332.34
+Laptop,Electronics,2,1007.59,2024-09-01,CUST1037,Mike Davis,South,2015.18
+Gaming Console,Gaming,2,530.16,2024-09-01,CUST1175,Emily Brown,East,1060.32
+Gaming Chair,Gaming,4,210.82,2024-09-04,CUST1156,Sarah Johnson,North,843.28
+USB Cable,Accessories,4,5.5,2024-09-04,CUST1073,Emily Brown,North,22.0
+Smart TV,Electronics,1,1242.1,2024-09-05,CUST1079,Emily Brown,East,1242.1
+Controller,Gaming,2,88.65,2024-09-05,CUST1012,Mike Davis,East,177.3
+Smartphone,Electronics,2,642.82,2024-09-05,CUST1076,John Smith,East,1285.64
+Speakers,Audio,3,270.75,2024-09-06,CUST1026,David Wilson,South,812.25
+Laptop,Electronics,1,950.62,2024-09-07,CUST1123,Emily Brown,West,950.62
+USB Cable,Accessories,1,7.6,2024-09-10,CUST1120,Sarah Johnson,East,7.6
+Gaming Console,Gaming,1,465.52,2024-09-11,CUST1145,David Wilson,East,465.52
+Keyboard,Accessories,5,92.39,2024-09-12,CUST1040,Mike Davis,North,461.95
+Speakers,Audio,6,133.22,2024-09-14,CUST1043,John Smith,North,799.32
+Monitor,Electronics,7,427.13,2024-09-14,CUST1057,John Smith,Central,2989.91
+Mouse,Accessories,2,15.07,2024-09-15,CUST1020,Mike Davis,South,30.14
+Tablet,Electronics,2,638.39,2024-09-20,CUST1070,Emily Brown,North,1276.78
+Webcam,Accessories,4,126.61,2024-09-20,CUST1018,Sarah Johnson,East,506.44
+Earbuds,Audio,1,65.72,2024-09-20,CUST1041,David Wilson,South,65.72
+Smart TV,Electronics,3,596.4,2024-09-20,CUST1146,Sarah Johnson,West,1789.2
+Laptop,Electronics,1,1701.51,2024-09-22,CUST1103,David Wilson,North,1701.51
+Earbuds,Audio,1,63.45,2024-09-22,CUST1085,John Smith,North,63.45
+Mouse,Accessories,2,27.61,2024-09-23,CUST1146,Emily Brown,East,55.22
+Gaming Console,Gaming,1,347.2,2024-09-25,CUST1191,Mike Davis,North,347.2
+Smartphone,Electronics,7,997.62,2024-09-26,CUST1008,Emily Brown,North,6983.34
+Speakers,Audio,5,96.43,2024-09-26,CUST1199,David Wilson,South,482.15
+Gaming Chair,Gaming,1,311.73,2024-09-29,CUST1009,Emily Brown,North,311.73
+Controller,Gaming,2,123.21,2024-09-29,CUST1062,Mike Davis,South,246.42
+Monitor,Electronics,5,356.71,2024-09-29,CUST1095,Emily Brown,North,1783.55
+USB Cable,Accessories,1,16.38,2024-09-30,CUST1011,Sarah Johnson,East,16.38
+Gaming Console,Gaming,2,442.2,2024-09-30,CUST1001,Emily Brown,East,884.4
+Monitor,Electronics,8,509.37,2024-10-01,CUST1150,John Smith,West,4074.96
+Controller,Gaming,3,77.21,2024-10-01,CUST1164,David Wilson,North,231.63
+Monitor,Electronics,1,470.48,2024-10-03,CUST1033,Emily Brown,South,470.48
+Speakers,Audio,1,126.71,2024-10-03,CUST1002,John Smith,South,126.71
+Gaming Console,Gaming,3,521.37,2024-10-04,CUST1052,David Wilson,South,1564.11
+Laptop,Electronics,7,1188.78,2024-10-04,CUST1072,Sarah Johnson,West,8321.46
+Gaming Chair,Gaming,3,375.61,2024-10-04,CUST1052,John Smith,North,1126.83
+USB Cable,Accessories,7,20.82,2024-10-04,CUST1197,Emily Brown,North,145.74
+Controller,Gaming,4,144.85,2024-10-06,CUST1151,John Smith,Central,579.4
+Headphones,Audio,3,301.16,2024-10-06,CUST1065,Emily Brown,West,903.48
+Gaming Chair,Gaming,10,355.89,2024-10-08,CUST1168,David Wilson,East,3558.9
+Webcam,Accessories,4,130.48,2024-10-09,CUST1128,David Wilson,West,521.92
+Controller,Gaming,1,71.98,2024-10-09,CUST1046,David Wilson,North,71.98
+Speakers,Audio,1,174.05,2024-10-09,CUST1152,David Wilson,East,174.05
+Speakers,Audio,1,97.83,2024-10-10,CUST1188,David Wilson,Central,97.83
+Controller,Gaming,1,144.86,2024-10-10,CUST1034,John Smith,East,144.86
+Speakers,Audio,3,157.13,2024-10-12,CUST1093,Mike Davis,North,471.39
+Keyboard,Accessories,1,154.48,2024-10-12,CUST1065,John Smith,East,154.48
+Mouse,Accessories,1,42.69,2024-10-12,CUST1141,Mike Davis,North,42.69
+Speakers,Audio,1,169.92,2024-10-14,CUST1144,Sarah Johnson,Central,169.92
+Smartphone,Electronics,1,831.26,2024-10-14,CUST1192,Mike Davis,East,831.26
+Webcam,Accessories,1,172.15,2024-10-14,CUST1002,Sarah Johnson,West,172.15
+Mouse,Accessories,3,54.37,2024-10-15,CUST1012,Emily Brown,West,163.11
+Headphones,Audio,2,251.31,2024-10-15,CUST1081,Emily Brown,East,502.62
+USB Cable,Accessories,2,11.79,2024-10-16,CUST1029,Sarah Johnson,West,23.58
+Headphones,Audio,1,283.4,2024-10-16,CUST1024,Mike Davis,West,283.4
+Tablet,Electronics,2,558.97,2024-10-17,CUST1163,Mike Davis,North,1117.94
+Gaming Chair,Gaming,1,205.76,2024-10-18,CUST1075,John Smith,North,205.76
+Smartphone,Electronics,7,655.26,2024-10-18,CUST1040,Sarah Johnson,West,4586.82
+Smart TV,Electronics,4,1199.89,2024-10-19,CUST1025,Emily Brown,West,4799.56
+Speakers,Audio,3,278.13,2024-10-19,CUST1154,Mike Davis,West,834.39
+Tablet,Electronics,2,616.49,2024-10-20,CUST1160,David Wilson,North,1232.98
+Gaming Console,Gaming,8,584.72,2024-10-20,CUST1057,Sarah Johnson,East,4677.76
+Headphones,Audio,1,138.87,2024-10-21,CUST1022,Sarah Johnson,West,138.87
+Gaming Chair,Gaming,4,359.2,2024-10-21,CUST1027,Sarah Johnson,Central,1436.8
+Headphones,Audio,4,198.45,2024-10-22,CUST1132,John Smith,Central,793.8
+Smartphone,Electronics,2,726.81,2024-10-22,CUST1162,John Smith,South,1453.62
+Speakers,Audio,5,150.96,2024-10-25,CUST1042,David Wilson,South,754.8
+Gaming Chair,Gaming,1,198.88,2024-10-27,CUST1040,Emily Brown,West,198.88
+Earbuds,Audio,3,60.98,2024-10-27,CUST1053,Mike Davis,North,182.94
+USB Cable,Accessories,1,11.85,2024-10-28,CUST1060,Sarah Johnson,North,11.85
+Speakers,Audio,3,124.89,2024-10-28,CUST1114,Mike Davis,North,374.67
+Monitor,Electronics,8,208.89,2024-10-29,CUST1032,Mike Davis,Central,1671.12
+Speakers,Audio,2,112.74,2024-10-30,CUST1010,Emily Brown,East,225.48
+Tablet,Electronics,2,433.13,2024-10-31,CUST1049,John Smith,South,866.26
+Smartphone,Electronics,4,430.47,2024-10-31,CUST1136,Mike Davis,South,1721.88
+Smart TV,Electronics,2,1486.49,2024-10-31,CUST1178,John Smith,West,2972.98
+Speakers,Audio,1,235.53,2024-11-01,CUST1031,David Wilson,Central,235.53
+Earbuds,Audio,2,60.26,2024-11-03,CUST1173,David Wilson,East,120.52
+Controller,Gaming,3,72.89,2024-11-03,CUST1088,Sarah Johnson,North,218.67
+Gaming Chair,Gaming,5,339.22,2024-11-03,CUST1048,Emily Brown,West,1696.1
+Gaming Console,Gaming,1,372.57,2024-11-03,CUST1167,Mike Davis,North,372.57
+Laptop,Electronics,1,1704.84,2024-11-04,CUST1003,Mike Davis,South,1704.84
+Laptop,Electronics,6,1194.76,2024-11-04,CUST1122,Mike Davis,East,7168.56
+Earbuds,Audio,3,60.32,2024-11-05,CUST1118,David Wilson,North,180.96
+USB Cable,Accessories,3,19.83,2024-11-05,CUST1008,Emily Brown,North,59.49
+Gaming Chair,Gaming,1,331.62,2024-11-05,CUST1158,Mike Davis,North,331.62
+Tablet,Electronics,1,280.31,2024-11-06,CUST1087,John Smith,East,280.31
+Smart TV,Electronics,1,1077.45,2024-11-06,CUST1173,Sarah Johnson,North,1077.45
+Smart TV,Electronics,4,1098.46,2024-11-06,CUST1071,John Smith,West,4393.84
+USB Cable,Accessories,9,11.99,2024-11-06,CUST1077,Mike Davis,East,107.91
+Keyboard,Accessories,7,48.94,2024-11-06,CUST1165,Emily Brown,East,342.58
+Speakers,Audio,2,223.72,2024-11-07,CUST1023,Mike Davis,North,447.44
+Smart TV,Electronics,4,874.52,2024-11-07,CUST1073,Mike Davis,South,3498.08
+Speakers,Audio,2,137.35,2024-11-09,CUST1062,David Wilson,Central,274.7
+Webcam,Accessories,1,174.24,2024-11-09,CUST1092,Sarah Johnson,South,174.24
+Laptop,Electronics,2,1003.77,2024-11-10,CUST1021,John Smith,South,2007.54
+Monitor,Electronics,3,440.66,2024-11-10,CUST1109,David Wilson,Central,1321.98
+Smartphone,Electronics,3,338.06,2024-11-11,CUST1034,Sarah Johnson,North,1014.18
+Earbuds,Audio,3,86.37,2024-11-11,CUST1043,John Smith,East,259.11
+Smartphone,Electronics,1,850.31,2024-11-11,CUST1130,Emily Brown,East,850.31
+Earbuds,Audio,7,177.48,2024-11-12,CUST1017,John Smith,Central,1242.36
+Headphones,Audio,5,73.92,2024-11-13,CUST1099,Mike Davis,West,369.6
+Webcam,Accessories,4,43.67,2024-11-14,CUST1121,David Wilson,West,174.68
+Monitor,Electronics,10,578.14,2024-11-15,CUST1060,John Smith,North,5781.4
+Keyboard,Accessories,3,154.7,2024-11-15,CUST1119,Mike Davis,West,464.1
+Monitor,Electronics,3,324.67,2024-11-16,CUST1054,Emily Brown,South,974.01
+Gaming Console,Gaming,3,534.72,2024-11-19,CUST1046,Emily Brown,West,1604.16
+Tablet,Electronics,4,556.28,2024-11-19,CUST1076,David Wilson,East,2225.12
+Keyboard,Accessories,1,87.06,2024-11-19,CUST1177,David Wilson,North,87.06
+Controller,Gaming,5,74.22,2024-11-20,CUST1025,Mike Davis,West,371.1
+Webcam,Accessories,2,63.01,2024-11-22,CUST1074,David Wilson,South,126.02
+Smart TV,Electronics,3,1047.14,2024-11-23,CUST1121,Mike Davis,East,3141.42
+Controller,Gaming,1,107.06,2024-11-23,CUST1043,Emily Brown,West,107.06
+Webcam,Accessories,2,140.48,2024-11-23,CUST1097,Emily Brown,South,280.96
+Speakers,Audio,1,209.15,2024-11-25,CUST1050,John Smith,South,209.15
+Monitor,Electronics,1,531.18,2024-11-26,CUST1049,John Smith,South,531.18
+Controller,Gaming,4,55.19,2024-11-27,CUST1081,Emily Brown,West,220.76
+Speakers,Audio,2,152.8,2024-11-27,CUST1033,John Smith,South,305.6
+Gaming Chair,Gaming,1,212.89,2024-11-29,CUST1029,David Wilson,Central,212.89
+Webcam,Accessories,5,129.3,2024-11-29,CUST1036,David Wilson,Central,646.5
+Speakers,Audio,7,270.97,2024-12-01,CUST1079,John Smith,South,1896.79
+Keyboard,Accessories,2,168.92,2024-12-01,CUST1053,Emily Brown,Central,337.84
+Webcam,Accessories,4,125.96,2024-12-01,CUST1097,Emily Brown,North,503.84
+Earbuds,Audio,3,87.7,2024-12-02,CUST1161,David Wilson,North,263.1
+USB Cable,Accessories,1,29.9,2024-12-02,CUST1014,John Smith,Central,29.9
+Tablet,Electronics,2,285.18,2024-12-03,CUST1157,John Smith,South,570.36
+Mouse,Accessories,2,34.79,2024-12-04,CUST1072,David Wilson,South,69.58
+Speakers,Audio,4,247.7,2024-12-04,CUST1047,John Smith,North,990.8
+Speakers,Audio,1,261.53,2024-12-04,CUST1120,Sarah Johnson,Central,261.53
+USB Cable,Accessories,3,16.74,2024-12-05,CUST1177,David Wilson,North,50.22
+Controller,Gaming,4,52.88,2024-12-06,CUST1092,Mike Davis,North,211.52
+USB Cable,Accessories,2,19.47,2024-12-07,CUST1045,Sarah Johnson,East,38.94
+Earbuds,Audio,2,173.21,2024-12-09,CUST1141,Emily Brown,South,346.42
+Smart TV,Electronics,1,1469.23,2024-12-09,CUST1198,Mike Davis,North,1469.23
+Mouse,Accessories,2,61.76,2024-12-12,CUST1136,Mike Davis,North,123.52
+Gaming Console,Gaming,3,510.79,2024-12-13,CUST1174,Emily Brown,East,1532.37
+Gaming Console,Gaming,4,546.84,2024-12-13,CUST1076,Emily Brown,South,2187.36
+Gaming Chair,Gaming,3,413.62,2024-12-13,CUST1109,Sarah Johnson,North,1240.86
+Gaming Chair,Gaming,2,459.15,2024-12-13,CUST1019,John Smith,South,918.3
+Speakers,Audio,10,216.85,2024-12-14,CUST1070,Mike Davis,South,2168.5
+Gaming Console,Gaming,2,345.22,2024-12-14,CUST1026,Emily Brown,West,690.44
+Gaming Chair,Gaming,5,408.32,2024-12-15,CUST1158,Mike Davis,North,2041.6
+Mouse,Accessories,5,28.28,2024-12-17,CUST1101,Emily Brown,Central,141.4
+Mouse,Accessories,2,84.13,2024-12-17,CUST1027,John Smith,South,168.26
+Headphones,Audio,1,126.67,2024-12-18,CUST1178,David Wilson,South,126.67
+Gaming Chair,Gaming,1,353.43,2024-12-21,CUST1115,Mike Davis,North,353.43
+Gaming Console,Gaming,1,541.04,2024-12-22,CUST1063,Mike Davis,Central,541.04
+Tablet,Electronics,7,368.58,2024-12-23,CUST1080,Emily Brown,South,2580.06
+Laptop,Electronics,1,2362.96,2024-12-23,CUST1061,Sarah Johnson,North,2362.96
+Controller,Gaming,1,89.83,2024-12-24,CUST1176,John Smith,North,89.83
+Headphones,Audio,5,239.57,2024-12-24,CUST1153,Mike Davis,South,1197.85
+Smartphone,Electronics,5,1142.54,2024-12-25,CUST1041,Sarah Johnson,South,5712.7
+Tablet,Electronics,1,745.59,2024-12-25,CUST1007,Sarah Johnson,East,745.59
+Speakers,Audio,2,139.75,2024-12-26,CUST1175,John Smith,North,279.5
+Monitor,Electronics,6,421.83,2024-12-27,CUST1176,David Wilson,East,2530.98
+Gaming Chair,Gaming,2,488.47,2024-12-27,CUST1063,Emily Brown,North,976.94
+Mouse,Accessories,3,27.23,2024-12-29,CUST1004,John Smith,North,81.69
+Speakers,Audio,2,140.08,2024-12-30,CUST1127,Mike Davis,South,280.16
+Gaming Chair,Gaming,2,427.64,2024-12-30,CUST1148,Sarah Johnson,North,855.28
+Gaming Chair,Gaming,8,479.05,2024-12-31,CUST1032,Mike Davis,West,3832.4

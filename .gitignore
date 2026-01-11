@@ -1,0 +1,9 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the course-provided Python codes folder
+/All Python Codes(Course Given)
+
+# Optional: Ignore common Python cache files
+__pycache__/
+*.pyc
