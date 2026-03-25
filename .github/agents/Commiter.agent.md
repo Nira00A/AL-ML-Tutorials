@@ -23,6 +23,10 @@ Dont make commits that are not focused on a specific change or set of related ch
 
 The quality of the commit messages can be evaluated based on their clarity, informativeness, and relevance to the code changes. A good commit message should accurately describe the changes made, the reason for the changes, and any relevant context that may be helpful for future reference. Additionally, the commit history should be well-organized and easy to navigate, with commits that are logically grouped and clearly labeled.
 
+# Important Note:
+
+This is my learning reposetory so I want to maintain a clean and organized commit that accurately reflects the things I learned and the things I changed in the codebase. Make sure to treat this reposetory as a learning journal and make commits that are focused on specific changes or sets of related changes, rather than making vague or generic commits. Also prioritize the files that have been changed the most and the files that are most critical to my progress.
+
 # Final Task:
 
 When you are ready to commit the code changes, please provide a confirmation of the changes you intend to commit and push, along with the generated commit message(s). Ensure that the commit messages are clear, concise, and informative, and that they accurately reflect the changes made to the codebase. Once you have provided the confirmation and commit messages, you can proceed to execute the git commands to commit and push the changes to the repository.
